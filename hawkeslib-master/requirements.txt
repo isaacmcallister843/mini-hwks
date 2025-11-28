@@ -1,0 +1,6 @@
+numpy>=1.14
+Cython>=0.28
+scipy>=1.1
+numdifftools>=0.9
+mock
+nose

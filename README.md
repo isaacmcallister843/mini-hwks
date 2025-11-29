@@ -9,7 +9,7 @@ The repo also includes the **final exported models** used for price-direction an
 ## Repository Contents
 - **notebooks.ipynb** – main development notebook with the Hawkes methods, feature engineering stages, and evaluation workflow  
 - **mode/** – final trained models (serialized) used in the prediction pipeline  
-- **writeup.pdf** – detailed project write-up, including goals, methodology, mathematical formulation, and evaluation metrics  
+- **Project_Hawkes.pdf** – detailed project write-up, including goals, methodology, mathematical formulation, and evaluation metrics  
 - **.gitignore** – excludes all large intermediary data outputs from version control  
 
 ## Notes
